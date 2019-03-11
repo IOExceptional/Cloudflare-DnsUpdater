@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DnsUpdater": {
+      "commandName": "Project",
+      "commandLineArgs": "\"leewalkergm@gmail.com\" \"487f3af73586179dde85462ad2b1e1baff1a4\" \"cd752968f4a44a14510b01650f648354\" \"ioexceptional.space\" \"cb2bac5e9304fcf111ed710328b40296\" \"serve-quick\""
+    }
+  }
+}
