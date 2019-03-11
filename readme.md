@@ -10,5 +10,5 @@ Updates a specific zone's subdomain record with an `A` record
 
 ## TODO
 
-[ ] Make it work
+[/] Make it work
 [ ] Look into it using IPv6 + `AAAA` records?
